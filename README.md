@@ -27,14 +27,14 @@ http://www.banggood.com/
 
 Si en forme de H:
 - moteurs pas à pas
--[Interfaces pour moteur pas à pas](http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-For-Arduino-p-948150.html)
+- [Interfaces pour moteur pas à pas](http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-For-Arduino-p-948150.html)
 - [Tiges filetées](http://www.visseriefixations.fr/tiges-filetees/acier-classe-8-8/tige-filetee-acier-8-8-zingue-blanc-din-975.html)
 - Tiges lisses
 - ...
 
 Si tiré par des ficelles:
 - 4 moteurs pas à pas  
--[Interfaces pour moteur pas à pas](http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-For-Arduino-p-948150.html)
+- [Interfaces pour moteur pas à pas](http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-For-Arduino-p-948150.html)
 - Ficelle
 - Bobines
 - ...
