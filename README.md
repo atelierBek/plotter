@@ -1,10 +1,12 @@
-# plotter
+# Plotter
+
 Un plotter géant
 
 ## Théorie / explications
 
 http://eskimon.fr/290-arduino-603-petits-pas-le-moteur-pas-pas  
-http://sam.electroastro.pagesperso-orange.fr/dossiers/pasapas/moteurpas2.htm  
+http://sam.electroastro.pagesperso-orange.fr/dossiers/pasapas/moteurpas2.htm    
+http://eskimon.fr/89-arduino-102-quelques-bases-elementaires
 
 ## Tuto
 
@@ -15,7 +17,13 @@ https://www.youtube.com/watch?v=HzBkeJylWhU
 
 [Hektor](http://juerglehni.com/works/hektor)
 
-## Matériel
+## Shops
+
+http://www.mouser.fr/  
+http://www.dx.com/  
+http://www.banggood.com/  
+
+## Matériel liens
 
 [Interfaces pour moteur pas à pas](http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-For-Arduino-p-948150.html)
 
@@ -23,6 +31,9 @@ https://www.youtube.com/watch?v=HzBkeJylWhU
 
 ## Matériel nécessaire
 
-3 moteurs pas à pas
-1 contrôleur L298N
+- moteurs pas à pas
+- contrôleur L298N
 
+## Code
+
+https://fr.wikipedia.org/wiki/Programmation_de_commande_num%C3%A9rique  
