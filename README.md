@@ -1,8 +1,6 @@
 # plotter
 Un plotter géant
 
-# Plotter
-
 ## Théorie / explications
 
 http://eskimon.fr/290-arduino-603-petits-pas-le-moteur-pas-pas
