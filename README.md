@@ -33,7 +33,7 @@ Si en forme de H:
 - ...
 
 Si tiré par des ficelles:
-- 4 moteurs pas à pas
+- 4 moteurs pas à pas  
 -[Interfaces pour moteur pas à pas](http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-For-Arduino-p-948150.html)
 - Ficelle
 - Bobines
