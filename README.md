@@ -20,8 +20,6 @@ http://www.banggood.com/fr/5Pcs-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-F
 Tiges filetées
 http://www.visseriefixations.fr/tiges-filetees/acier-classe-8-8/tige-filetee-acier-8-8-zingue-blanc-din-975.html
 
-
-
 ## Matériel nécessaire
 
 3 moteurs pas à pas
