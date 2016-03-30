@@ -11,6 +11,9 @@ http://sam.electroastro.pagesperso-orange.fr/dossiers/pasapas/moteurpas2.htm
 http://www.instructables.com/id/How-to-make-a-XY-plotter-with-Makeblock/  
 https://www.youtube.com/watch?v=HzBkeJylWhU  
 
+## Références
+
+[Hektor](http://juerglehni.com/works/hektor)
 
 ## Matériel
 
