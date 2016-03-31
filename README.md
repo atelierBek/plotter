@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=HzBkeJylWhU
 ## Références
 
 [Hektor](http://juerglehni.com/works/hektor)
+[Grichka Commaret](https://www.youtube.com/watch?v=sw7A9fpknJI)
+
 
 ### 4 cables
 
