@@ -14,7 +14,7 @@ http://www.instructables.com/id/How-to-make-a-XY-plotter-with-Makeblock/
 https://www.youtube.com/watch?v=HzBkeJylWhU  
 
 ## Références
-
+[OTTO](https://vimeo.com/129666491?from=outro-embed)
 [Hektor](http://juerglehni.com/works/hektor)  
 [Grichka Commaret](https://www.youtube.com/watch?v=sw7A9fpknJI)
 
